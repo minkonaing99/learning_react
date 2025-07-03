@@ -1,0 +1,36 @@
+Component based Architecture
+
+Reusable
+Independent
+
+Creating standalone parts of the user interface called component in react
+
+Every website is the collection of components
+
+We will learn about this 
+ Build and compose components
+ High performance rendering
+ Component rendering
+
+React use virtual DOM to update the browser DOM only when needed.
+This ensures that the update is as minimal as possible
+increasing application speed and performance.
+
+
+Learning about funcitonal components
+    Component types
+        JSX
+        Transpiling - interpreting a programming language and translating it to specific target language
+
+React consists of two compoents,
+    Functional components
+    Class components
+
+
+Every react compoents consits of at least one component
+which is called render root component
+
+JSX (Javascript XML) combines JS and HTML
+
+
+All components named in React must be Capitalized.
