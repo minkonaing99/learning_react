@@ -37,3 +37,12 @@ All components named in React must be Capitalized.
 
 start by typing
 npm init react-app .
+
+
+
+node_modules - needed for React app to run
+public- assets that will display for user
+    the most important one is index.html
+src
+    all essentials file to Functional
+    
