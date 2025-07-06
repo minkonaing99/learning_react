@@ -34,3 +34,6 @@ JSX (Javascript XML) combines JS and HTML
 
 
 All components named in React must be Capitalized.
+
+start by typing
+npm init react-app .
